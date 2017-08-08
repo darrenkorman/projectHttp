@@ -1,0 +1,7 @@
+Command line Building
+    msbuild projectHttp.sln /p:Configuration=Release /p:platform=x64
+
+MSBUILD:
+    https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild
+    https://docs.microsoft.com/en-us/cpp/build/msbuild-visual-cpp
+    
